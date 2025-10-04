@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "Cypress",
-        "logo": "https://raw.githubusercontent.com/VPitta/my-portfolio-pages/blob/main/data/imgs/cypress.png"
+        "logo": "https://raw.githubusercontent.com/VPitta/my-portfolio-pages/main/data/imgs/cypress.png"
       },
       {
         "name": "JavaScript",
@@ -17,11 +17,11 @@
       },
       {
         "name": "Postman",
-        "logo": "https://raw.githubusercontent.com/VPitta/my-portfolio-pages/blob/main/data/imgs/Postman.png"
+        "logo": "https://raw.githubusercontent.com/VPitta/my-portfolio-pages/main/data/imgs/Postman.png"
       },
       {
         "name": "jira",
-        "logo": "https://raw.githubusercontent.com/VPitta/my-portfolio-pages/blob/main/data/imgs/Jira.png"
+        "logo": "https://raw.githubusercontent.com/VPitta/my-portfolio-pages/main/data/imgs/Jira.png"
       },
       {
         "name": "github",
