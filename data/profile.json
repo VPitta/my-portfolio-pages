@@ -1,0 +1,67 @@
+{
+  "name": "Vinicius Pita",
+  "photo": "https://avatars.githubusercontent.com/u/98181301?v=4",
+  "job": "Quality Assurance (QA)",
+  "location": "Santos - São Paulo - BR",
+  "phone": "(13) 97420-4769",
+  "email": "vpita.95@outlook.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Cypress",
+        "logo": "https://raw.githubusercontent.com/VPitta/my-portfolio-pages/main/data/imgs/cyprees.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/VPitta/my-portfolio-pages/main/data/imgs/js.png"
+      },
+      {
+        "name": "Postman",
+        "logo": "https://raw.githubusercontent.com/VPitta/my-portfolio-pages/main/data/imgs/postman.png"
+      },
+      {
+        "name": "jira",
+        "logo": "https://raw.githubusercontent.com/VPitta/my-portfolio-pages/main/data/imgs/jira.png"
+      },
+      {
+        "name": "github",
+        "logo": "https://raw.githubusercontent.com/VPitta/my-portfolio-pages/main/data/imgs/github.png"
+      },
+      {
+        "name": "VsCode",
+        "logo": "https://raw.githubusercontent.com/VPitta/my-portfolio-pages/main/data/imgs/vscode.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Percistenia",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Marvel API Test",
+      "url": "https://github.com/VPitta/marvel-api-tests",
+      "github": true
+    },
+    {
+      "name": "Projeto Discord Prototype",
+      "url": "https://github.com/VPitta/discord-landing-page-clone.git",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Técnico de Informática I — Poupatempo Guarujá ",
+      "period": "Agosto 2016 a Setembro 2018 / Agosto 2020 a Dezembro 2020",
+      "description": "Experiência em manutenção de computadores, suporte a usuários e administração de redes no Poupatempo Guarujá."
+    }
+
+  ]
+}
