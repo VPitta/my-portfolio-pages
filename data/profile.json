@@ -34,7 +34,7 @@
     ],
     "softSkills": [
       "Empatia",
-      "Percistenia",
+      "Persistência",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -54,7 +54,13 @@
       "name": "Projeto Discord Prototype",
       "url": "https://github.com/VPitta/discord-landing-page-clone.git",
       "github": true
+    },
+    {
+      "name": "Cypress Real World App - Testes Automatizados",
+      "url": "https://github.com/VPitta/cypress-realworld-tests.git",
+      "github": true
     }
+    
   ],
   "professionalExperience": [
     {
